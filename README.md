@@ -1,7 +1,2 @@
-### Hi there 👋
-
-{
-  "Name":"Nehal agrawal",
-  "Education":"IET DAVV Indore",
-  "Proficiency":"MERN Stack"
-}
+### Hey, I am Nehal Agrawal! 👋
+I am a MERN Stack Developer and a coding Enthusiast.
