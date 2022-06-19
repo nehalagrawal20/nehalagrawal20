@@ -1,10 +1,10 @@
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> -->
 <h1 align="center">Hi 👋, I'm Nehal Agrawal</h1>
 <h3 align="center">An Enthusiastic and curious individual eager to explore new things and open to new experiences and opportunities. Self-driven, Organized, Hard-Working and always with a positive mindset.</h3>
 
 - 🔭 I’m currently working to **enhance my programming skills.**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 💬 Ask me about **DSA and MERN stack**
 
